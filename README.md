@@ -6,7 +6,7 @@
   * Java 11
   * Spring Framework
   * H2 Database
-  * MySQl
+  * MySQL
   * Maven
   
   Front-End
